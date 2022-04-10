@@ -3,8 +3,8 @@ Ejercicio en aplicación de consola en C#
 
 ### Tarea:
 
-* El usuario debe poder introducir su código postal.
-Se comprueba si el código postal tiene cinco dígitos.
+-El usuario debe poder introducir su código postal.
+-Se comprueba si el código postal tiene cinco dígitos.
 Si no es el caso, se mostrará en la consola "Código postal no válido".
 Si el código postal es correcto, se determinará la región correspondiente y se mostrará en la consola.
 Códigos postales: Empezando por 0 o 1 => Alemania del Este
